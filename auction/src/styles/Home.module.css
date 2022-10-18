@@ -1,0 +1,12 @@
+#btn{
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    background-color: orange;
+    border:1px solid orange;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgb(61, 51, 51);
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,36 @@
+{
+  "bids": [
+    {
+      "image": "https://i.pinimg.com/736x/95/98/b6/9598b66a0edc808efe2bee56893ff710.jpg",
+      "name": "Vintage ferrari",
+      "Previous_bid": 500000,
+      "Description": "Its one of rare cars and there are only 20of these cars are there",
+      "Quantity": 1,
+      "id": 1
+    },
+    {
+      "name": "World cup Wining bat",
+      "image": "https://img.cricketnmore.com/uploads/article/dhoni-s-world-cup-winning-bat.jpg",
+      "Previous_bid": "750000",
+      "Quantity": 1,
+      "Description": "Its a same bat with which dhoni hit world cup winning six",
+      "id": 2
+    },
+    {
+      "image": "https://image.wedmegood.com/resized/800X/uploads/member/999842/1579781099_Screenshot_2.png",
+      "name": "Vintage Palace",
+      "Previous_bid": 12000000,
+      "Description": "Its the last palace of Lucknows prince and its most work is done with the marbles",
+      "Quantity": 1,
+      "id": 3
+    },
+    {
+      "image": "https://n1.sdlcdn.com/imgs/a/c/0/SDL175749599_1373448454_image1-70009.jpg",
+      "name": "Century Bat",
+      "Previous_bid": 70000,
+      "Description": "This is the same bat with which Sachin tendulkar has completed his 100th Century",
+      "Quantity": 1,
+      "id": 4
+    }
+  ]
+}
